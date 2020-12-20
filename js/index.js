@@ -1,4 +1,4 @@
-const URL = "http://localhost:3000/twitter";
+const URL = "https://twitterclone-1.herokuapp.com/twitter";
 
 onNextPage = () => {
   if (nextpageUrl) {
